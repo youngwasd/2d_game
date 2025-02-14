@@ -41,11 +41,4 @@ public class GameManagerScript : MonoBehaviour
         SceneManager.LoadScene("MainMenu");
         Debug.Log("To Main Menu");
     }
-
-    // quitting game
-    // public void quitApplication()
-    // {
-    //     Application.Quit();
-    //     Debug.Log("Game Closed");
-    // }
 }
